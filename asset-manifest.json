@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/urrrbvn/React-Kt4/static/css/main.d99c6089.css",
+    "main.js": "/urrrbvn/React-Kt4/static/js/main.5a765a30.js",
+    "index.html": "/urrrbvn/React-Kt4/index.html",
+    "main.d99c6089.css.map": "/urrrbvn/React-Kt4/static/css/main.d99c6089.css.map",
+    "main.5a765a30.js.map": "/urrrbvn/React-Kt4/static/js/main.5a765a30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d99c6089.css",
+    "static/js/main.5a765a30.js"
+  ]
+}
